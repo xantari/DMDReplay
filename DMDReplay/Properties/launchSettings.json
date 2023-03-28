@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DMDReplay": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
