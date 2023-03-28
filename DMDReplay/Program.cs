@@ -39,7 +39,7 @@ public class Program
                 }
             });
 
-            Thread.Sleep(20000); //Wait
+            Thread.Sleep(20000); //Wait for ROM to initialize
 
             //Insert Coin
             for (int i = 0; i < 5; i++)
